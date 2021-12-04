@@ -1,4 +1,4 @@
-#version 130
+#version 120
 
 // Vertex inputs
 in vec4 p3d_Vertex;
